@@ -1,0 +1,11 @@
+C:\Users\zubey\source\repos\istasyon1\istasyon1\bin\Debug\istasyon1.exe.config
+C:\Users\zubey\source\repos\istasyon1\istasyon1\bin\Debug\istasyon1.exe
+C:\Users\zubey\source\repos\istasyon1\istasyon1\bin\Debug\istasyon1.pdb
+C:\Users\zubey\source\repos\istasyon1\istasyon1\obj\Debug\istasyon1.csproj.AssemblyReference.cache
+C:\Users\zubey\source\repos\istasyon1\istasyon1\obj\Debug\istasyon1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zubey\source\repos\istasyon1\istasyon1\obj\Debug\istasyon1.Form1.resources
+C:\Users\zubey\source\repos\istasyon1\istasyon1\obj\Debug\istasyon1.Properties.Resources.resources
+C:\Users\zubey\source\repos\istasyon1\istasyon1\obj\Debug\istasyon1.csproj.GenerateResource.cache
+C:\Users\zubey\source\repos\istasyon1\istasyon1\obj\Debug\istasyon1.csproj.CoreCompileInputs.cache
+C:\Users\zubey\source\repos\istasyon1\istasyon1\obj\Debug\istasyon1.exe
+C:\Users\zubey\source\repos\istasyon1\istasyon1\obj\Debug\istasyon1.pdb
